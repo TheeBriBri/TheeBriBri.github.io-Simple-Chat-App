@@ -1,0 +1,59 @@
+#package {
+  background: #66FFFF;
+  border: 2px;
+  margin: 0 auto;
+  width: 600px;
+
+}
+#chatlogPackage {
+  background: #FFFFFF;
+  border: 1px;
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+  margin-bottom: 50px;
+  scroll-behavior: auto;
+  overflow: auto;
+  box-sizing: border-box;
+  padding-bottom: 120px;
+}
+.right {
+  
+  float: right;
+  background-color: green;
+  border-radius: 15px;
+  display: block; 
+  clear:both;
+  padding: 10px ;
+  margin-left: 200px;
+  margin-right: 20px;
+}
+
+.left {
+ 
+  float: left;
+  border-radius: 15px;
+  background-color: yellow;
+  display: block; 
+  clear:both;
+  padding: 10px;
+  margin-right: 200px;
+  margin-left: 20px;
+}
+
+#usermessage {
+  width: 400px;
+  margin-left: 98px;
+  margin-bottom: 50px;
+  float: top;
+}
+
+h1 {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+#chatting {
+  text-align: right;
+}
+
